@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ilusion</h1>
-<h3 align="center">Begginer Developer From Poland</h3>
+<h3 align="center">I am just a small begginer developer.</h3>
 
-- 🔭 I’m currently working on **my own Fivem Server.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0nati0&label=Profile%20views&color=0e75b6&style=flat" alt="0nati0" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **ღ . Iluzja#9768**
+- 📫 If you need any help Text me on Discord : **ღ . Iluzja#9768**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0nati0&show_icons=true&locale=en&layout=compact" alt="0nati0" /></p>
