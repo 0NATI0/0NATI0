@@ -1,7 +1,6 @@
 ![Header](./img1.png)
 
 <h1 align="center">AL1CE</h1>
-<a href="al1ce">http://al1ce.eu</a>
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=imvast&countColorcountColor&countColor=%23006EFF" alt="Views"/>
